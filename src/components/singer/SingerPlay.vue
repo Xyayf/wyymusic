@@ -13,7 +13,7 @@
     </van-sticky>
     <div>
       <van-cell
-        v-for="(item, index) in hotData"
+        v-for="(item) in hotData"
         :key="item.id"
         :title="item.name"
         is-link

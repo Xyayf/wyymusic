@@ -117,7 +117,7 @@
 
 <script>
 import Loading from '../Loading'
-import Configfrom '../../api/Config.js'//api
+import Config from '../../api/Config.js'//api
 import Vue from 'vue'
 import { NavBar } from 'vant'
 import { Sticky } from 'vant'

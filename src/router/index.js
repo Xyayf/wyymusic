@@ -250,17 +250,4 @@ const router = new Router({
 
 export default router;
 
-//下面是脚手架自带的 可以改写成上面的形式 只要暴露出去就行
-// export default new Router({
-//   routes: [
-//     {//首页
-//       path: '/',
-//       name: 'Index',
-//       component: Index
-//     }, {//
-//       path: '/admin',
-//       name: 'admin',
-//       component: Admin
-//     }
-//   ]
-// })
+
